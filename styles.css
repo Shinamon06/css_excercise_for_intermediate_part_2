@@ -24,9 +24,9 @@ h1 {
  * - フレックスアイテムがフレックスコンテナー内に収まりきらない場合は、改行するようにする(ヒント: flex-wrapプロパティ)
  */
 .container {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 
 }
 
